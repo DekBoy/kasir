@@ -1,2 +1,2 @@
-# kasir-v.1
+# kasir
 tugas kuliah pemograman php tentang diskon
